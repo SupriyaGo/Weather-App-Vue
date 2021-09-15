@@ -1,5 +1,7 @@
 # vue-weather-app
 
+## Site link: https://vue-weather-app-supriya.netlify.app/
+
 ## Project setup
 ```
 yarn install
